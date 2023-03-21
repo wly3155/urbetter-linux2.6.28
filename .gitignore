@@ -64,3 +64,15 @@ ncscope.*
 *.orig
 *~
 \#*#
+
+# source insight
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.si4project/
